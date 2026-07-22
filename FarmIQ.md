@@ -12,8 +12,8 @@ Production-grade livestock monitoring platform built with **ASP.NET Core**, **Ka
 📱 Mobile APK: 
 https://github.com/GraduationProject-FCITU/frontend-mobile/releases/tag/v1.0.15
 
-🔗 Backend: 
-https://github.com/GraduationProject-FCITU/backend
+🔗 Backend API: 
+https://farmiq.runasp.net
 
 ---
 
