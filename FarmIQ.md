@@ -281,11 +281,12 @@ Designed to support:
 
 # 📷 Some Screenshots
 
-![User Management](image-3.png)
-![Alerts](image-1.png)
-![Chat](image-2.png)
+<img width="659" height="504" alt="image" src="https://github.com/user-attachments/assets/3c44e54c-4eb5-47d3-b9d3-4c52940bbbaf" />
+<img width="297" height="511" alt="image" src="https://github.com/user-attachments/assets/1bb6d868-ef1e-49e2-bfb4-8566dc6d8f2b" />
+<img width="291" height="534" alt="image" src="https://github.com/user-attachments/assets/79bf26df-e531-40b1-8a2d-97aaf6c336e9" />
 
-![Cow Profile](image.png)
+<img width="559" height="782" alt="image" src="https://github.com/user-attachments/assets/3e010c50-e3d1-45a6-85fd-0fed24891763" />
+
 ---
 
 # 👨‍💻 Team
