@@ -282,13 +282,13 @@ Designed to support:
 # 📷 Some Screenshots
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/3e010c50-e3d1-45a6-85fd-0fed24891763" width="45%" />
   <img src="https://github.com/user-attachments/assets/3c44e54c-4eb5-47d3-b9d3-4c52940bbbaf" width="45%" />
-  <img src="https://github.com/user-attachments/assets/1bb6d868-ef1e-49e2-bfb4-8566dc6d8f2b" width="45%" />
 </p>
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/1bb6d868-ef1e-49e2-bfb4-8566dc6d8f2b" width="45%" />
   <img src="https://github.com/user-attachments/assets/79bf26df-e531-40b1-8a2d-97aaf6c336e9" width="45%" />
-  <img src="https://github.com/user-attachments/assets/3e010c50-e3d1-45a6-85fd-0fed24891763" width="45%" />
 </p>
 
 ---
